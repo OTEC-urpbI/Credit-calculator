@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.credits
+Exec=/usr/bin/ru.template.credits
+Name=Credits
+Name[ru]=Кредит
+
+[X-Application]
+Permissions=Documents;Downloads;Pictures
+OrganizationName=ru.template
+ApplicationName=credits
+ExecDBus=/usr/bin/ru.template.credits
